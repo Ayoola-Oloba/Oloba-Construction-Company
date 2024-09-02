@@ -371,6 +371,17 @@ h10{
      }
 
 }
+@media only screen and (max-width:720px){
+    .container{
+        max-width: 670px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .create{
+        height: 70vh;
+        padding: 5px;
+    }
+}
 @media only screen and (max-width:690px){
     .container{
         max-width: 580px;
